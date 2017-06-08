@@ -7,7 +7,6 @@ Create Repo with Add Read me and .gitignore
 Steps for repo
 
 1.Clone the project to the desktop
-
 2.Open tern=minal and clone the repository
 
 cmd : git clone URL
